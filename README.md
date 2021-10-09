@@ -3,7 +3,7 @@
 - 👀 I’m developing an open source CAD tool for modeling the interior arrangement of ships, houses, 
      buildings, space habitats, or other subdivided structures using Java. 
      The program is called Compartmentalized Model (CM) Creator, and can be downloaded from
-  github at rlutowski/cmcreator
+  github at rlutowski/CMCreator
   
 - 👀 If you know basic Java and might be interested in collaborating on this tool, you can reach me at
   rick@jreality.com 
